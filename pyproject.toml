@@ -1,0 +1,20 @@
+[tool.poetry]
+name = 'tournamentor'
+version = '0.1.0'
+description = 'play a tournament like a bus'
+
+license = 'MIT'
+
+authors = [
+    'Hamed Khanaki <goo.hamedacc@gmail.com>',
+	'Mohamadreza Taalebi <the.doors.are.locked@gmail.com>',
+    'Majid Garoosi <amoomajid99@gmail.com>'
+]
+
+readme = 'README.md'
+
+
+[tool.poetry.dependencies]
+python = '^3.9'
+toml = '^0.9'
+Django = "^4.0.3"
