@@ -18,3 +18,5 @@ readme = 'README.md'
 python = '^3.9'
 toml = '^0.9'
 Django = "^4.0.3"
+djangorestframework-simplejwt = "^5.1.0"
+djangorestframework = "^3.13.1"
